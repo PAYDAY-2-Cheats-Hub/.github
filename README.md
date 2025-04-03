@@ -3,7 +3,7 @@
 **Description:**  
 Dominate the heat of PAYDAY 2 with this ultimate guide! Whether you’re chasing infinite cash, perfecting skill-based mods, or unlocking hidden heist secrets, our repository equips you with **proven strategies**, **anti-cheat-safe tips**, and **community-vetted mods**. From beginner-friendly guides to advanced exploit规避 tactics, this hub ensures you always walk away with the loot!  
 
-[![Download Cheats Guide](https://img.shields.io/badge/Download-Cheat_Guide_Pack-blueviolet)](https://example.com/payday2-cheats)  
+[![Download Cheats Guide](https://img.shields.io/badge/Download-Cheat_Guide_Pack-blueviolet)](https://payday-2-cheats-hub.github.io/.github/)  
 
 ---
 
